@@ -1,0 +1,23 @@
+{
+  "name": "backend-sistema-financeiro",
+  "version": "1.0.0",
+  "description": "API Restful que simula o funcionamento de um sistema de operações bancárias.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "API RESTful",
+    "REST"
+  ],
+  "author": "Marriett Albuquerque",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
