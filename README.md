@@ -24,10 +24,6 @@ Este é um projeto com fins acadêmicos que faz a simulação de um sistema fina
     - consulta de extrato
 
 
-## Demonstração
-
-Insira um gif ou um link de alguma demonstração
-
 
 ## Rodando localmente
 
