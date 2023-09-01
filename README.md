@@ -6,7 +6,7 @@ Este é um projeto com fins acadêmicos que faz a simulação de um sistema fina
 
 ## Screenshots
 
-![App Screenshot](.github\image-01.png)
+![App Screenshot](./assets/image-01.png)
 
 
 ## Funcionalidades
